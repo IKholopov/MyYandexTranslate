@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.ikholopov.personal.myyandextranslate"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildTypes.each {
+        it.buildConfigField 'String', 'YANDEX_TRANSLATE_API_KEY', '"trnsl.1.1.20170410T233210Z.1f9a264ccccade85.5a83d2cf1dac66aa5cda4d5fa2b0c15a8ba6c306"'
+        it.buildConfigField 'String', 'YANDEX_TRANSLATE_GET_LANGS_URL', '"https://translate.yandex.net/api/v1.5/tr.json/getLangs"'
+        it.buildConfigField 'String', 'YANDEX_TRANSLATE_DO_TRANSLATION', '"https://translate.yandex.net/api/v1.5/tr.json/translate"'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:cardview-v7:25.3.1'
+    compile 'com.android.volley:volley:1.0.0'
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.json:json:20160810'
+}

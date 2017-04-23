@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyYandexTranslate</string>
+    <string name="clear_favorites">Удалить избранное</string>
+    <string name="clear_history">Удалить историю</string>
+    <string name="detect_lang"></string>
+    <string name="detect_lang_name">Определить</string>
+    <string name="error_failed_to_translate">Что-то пошло не так:( Проверьте ваше соединение с Интернетом</string>
+    <string name="exit">Выйти</string>
+    <string name="favourites_button">Избранное</string>
+    <string name="history_button">История</string>
+    <string name="refresh_languages_database">Обновить базу языков</string>
+    <string name="retry">Повторить</string>
+    <string name="translate_button">Перевести</string>
+    <string name="translate_edit_text_hint">Нажмите, чтобы ввести текст</string>
+    <string name="settings_tab_name">НАСТРОЙКИ</string>
+    <string name="deleted_favorites">Избранное удалено</string>
+    <string name="deleted_history">История удалена</string>
+    <string name="refreshing_languages_database">Обновление списка языков...</string>
+</resources>

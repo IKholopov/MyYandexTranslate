@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.ikholopov.personal.myyandextranslate.HistoryAndFavoritesFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:elevation="0dp"
+        android:background="@color/colorLight">
+        <android.support.design.widget.TabLayout
+            android:id="@+id/favorites_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/colorPrimary"
+            android:elevation="10dp"
+            app:tabMode="fixed"
+            app:tabBackground="@color/colorPrimary"/>
+        <android.support.v7.widget.CardView
+            android:id="@+id/fav_card_vies"
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:elevation="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+            <android.support.v4.view.ViewPager
+                android:id="@+id/favorites_pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</FrameLayout>

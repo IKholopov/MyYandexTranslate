@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb73a6e4ec37df622b1a3dbd3c8a1609c074659f">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_73883d1a84c6d0b52c965155ea734c40bd7761d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_779ffebce6401f81e4ba61b10246fd93259f4daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/b9b9a6891d55ad54651a4281c00e3c1af6472c1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_d5b7c8d132b6899dfca2b5f1fe41e63b43540a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_49eae6f055a7361ec0eceab1bcaf9045460939cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_9221e53678bc1ce32edb43b581e07fb4607ce013.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0c41398e2115b487bbed738eedc645d06aa54a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/igor/.android/build-cache/238c222b382308ab6e745a70890ab4020515273b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df04c99017ce0692b0a83b1739488dbfd0fef78c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/cfb93e626d0966ae3cf34c707dee59b82b51f692/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_f37435e71fb88622212366fc79fd78f951349a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_660ac9681aed57d759548dc825e9ad8a99a68d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/238c222b382308ab6e745a70890ab4020515273b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_df04c99017ce0692b0a83b1739488dbfd0fef78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_32be8a74dab290df8b840d7a074bb48af9a322c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_f27ab3e8c89f7ffe021c6c12a29fc5b95570baf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_45b8fc303613672ad9d2aeee6385fa8352283fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/f096190ea0b421154c3e1f5abac8ba875fec58c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_19fe36c8494b89d79c9413bff514abd0cb8deb6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/5e743e9e5c09958eeaa4b5a5b4269849df1d232e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_cbb6a2d09d5fe8cc6a252746078ceacf5b66423d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/611c499c62db5325cee111462df87ab4314bf758/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_8b7f6b64cacc7ccd6bce764c952917c5c8fd5153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/20ff0b167247844510b16a868e6faeef3850b6ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_4789e1208a4cf5437bb63b8f5ef179d776397541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_911672a7d6b310dfa334d2e8a00c77829eeb3ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_07b3c655357be28e2665b39ba8b0f79d6991d663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/11545a1408417ff7fd3f13746cae2b51a95a76cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_a7990d7696276c5c00cdd646c5d269ca4729a525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/320b44a0ece9bf349095440f64d0b642271c6058/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_a7931629fb12c827e1e2d0687fdbbc1ffcacc119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/024094f5755d28a8af57952cc316aaec4bc14140/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_76264bf5bf3206769eae05dd7275b8e671ee4c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/56a4a35453b3906722297987af7e83b434809679/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/classes_b8715d2c32068da992a77f252fd3ab9ff19bf0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/490d464fa549e6f301263e595406a15fda80f6f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/classes_469dc4f5e9fc2c118bda61612da768ceed334dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_b475a804ce991ab3671121da6fcc5c374a080543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/ba55af1969f80b03d0bae926b3eec650afaa4e94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/classes_351f59cbf57bb505738815ebbc49734169633c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/b7bac107429ed7de452cc681993841207708b167/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/classes_e4610cb0dcf93470b24ef240a24efacc58514206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/b3cc5983dc5edbf0fb0041a63528f386daee0f67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/androidTest/debug/classes_0b57fd107eda3b99a5b8703fa87d41e208a1b195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/d20d21b1afae62796ce2473b8dff8769951fa248/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_2708e1a1e4fdd65d92d6e5bdedf0519210a96bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/fd1f16a5ab6f00d2f97195e082c092c7ec9de629/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_419153d2516de9d188f92dfa63eb9c50968dfe21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/8acc85ab0cb5743a065b407280083e418f94e5fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_859cb245cfcbe9bc9436eb55fb913cb2ae4cda34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/e56d27101a1013bf1f700015f38ae62eb6b2bf4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_1b599ad27e6223ad76ea1b0e76ab7144aec09330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/igor/.android/build-cache/08bd71f06bfba90c9339eaa838926e8faa9f0af7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/igor/Projects/MyYandexTranslate/app/build/intermediates/pre-dexed/debug/classes_37eb2d3a3ed46d04a59989309b4d05876c612c5b.jar" />
+    </item>
+
+</items>

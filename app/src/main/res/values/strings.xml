@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyYandexTranslate</string>
+
+    <string name="arrows" translatable="false"><![CDATA[<->]]></string>
+    <string name="history_button">History</string>
+    <string name="favourites_button">Favorites</string>
+
+    <string name="left_last_lang" translatable="false">left_last_lang</string>
+    <string name="right_last_lang" translatable="false">right_last_lang</string>
+    <string name="translate_edit_text_hint">Type text to translate ...</string>
+    <string name="detect_lang" translatable="false">detect-lang</string>
+    <string name="detect_lang_name">Detect</string>
+    <string name="error_failed_to_translate">Something went wrong :( Please check your network connection</string>
+    <string name="translate_button">Translate</string>
+    <string name="retry">Retry</string>
+    <string name="myyandextranslate_app_name" translatable="false">MyYandexTranslate</string>
+    <string name="refresh_languages_database">Refresh languages database</string>
+    <string name="clear_history">Clear history</string>
+    <string name="clear_favorites">Clear favorites</string>
+    <string name="exit">Exit</string>
+    <string name="settings_tab_name">SETTINGS</string>
+    <string name="deleted_history">History deleted</string>
+    <string name="deleted_favorites">Favorites deleted</string>
+    <string name="refreshing_languages_database">Refreshing available languages...</string>
+
+    <integer name="left_language_default">0</integer>
+</resources>
